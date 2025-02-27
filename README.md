@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keshvi Patel</h1>
 <h3 align="center">A passionate Full stack Web developer...</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patelkeshvi&label=Profile%20views&color=0e75b6&style=flat" alt="patelkeshvi" /> </p>
 
 - 🌱 I’m currently learning **Bachelor's in Computer Science**
