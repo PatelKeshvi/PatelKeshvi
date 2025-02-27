@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner Image" width="800" height="400">
+<h1 align="center">🌟Welcome to my Github Profile✨</h1>
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner Image" width="1000" height="400">
 <h1 align="center">Hi 👋, I'm Keshvi Patel</h1>
 <h3 align="center">A passionate Full stack Web developer...</h3>
 
